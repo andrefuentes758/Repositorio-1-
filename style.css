@@ -1,0 +1,31 @@
+h1 {
+    color: darkslategrey;
+}
+  
+body{
+    background-color: beige;
+}
+label {
+    display: block;
+    margin-top: 10px;
+    font-weight: bold;
+}
+
+input {
+    width: 30%;
+    padding: 8px;
+    margin-top: 5px;
+    border: 1px;
+    
+}
+button { 
+    width: 100%;
+    padding: 10px;
+    margin-top: 15px;
+    background-color: darkgrey;
+    color: black;
+    border: none;
+    border-radius: 5PX;
+    cursor: pointer;
+
+}
