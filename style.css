@@ -1,5 +1,5 @@
 h1 {
-    color: darkslategrey;
+    color: rgb(34, 185, 185);
 }
   
 body{
@@ -28,4 +28,7 @@ button {
     border-radius: 5PX;
     cursor: pointer;
 
+}
+h2 {
+    color: rgb(82, 14, 145);
 }
